@@ -1,5 +1,4 @@
-## Hi there 👋
-# 👋 Hi, I'm Amine
+## 👋 Hi, I'm Amine
 
 ### 💻 About Me
 I'm a **web developer** who enjoys creating simple and useful projects.  
