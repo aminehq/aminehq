@@ -17,27 +17,28 @@
 
 ## 🛠 Tech Stack
 
-***
+### BACKEND
+<a href="https://www.php.net/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" alt="PHP" /></a> &nbsp; <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS" /></a> &nbsp; <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40" alt="Express" /></a>
 
-**BACKEND :** &nbsp; <a href="https://www.php.net/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="30" height="30" /></a> &nbsp; <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="30" height="30" /></a> &nbsp; <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="30" height="30" /></a>
+<br>
 
-***
+### FRONTEND
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /></a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /></a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS" /></a> &nbsp; <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" /></a> &nbsp; <a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" /></a> &nbsp; <a href="https://jquery.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="40" height="40" alt="jQuery" /></a>
 
-**FRONTEND :** &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30" /></a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30" /></a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JS" width="30" height="30" /></a> &nbsp; <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="30" height="30" /></a> &nbsp; <a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30" height="30" /></a> &nbsp; <a href="https://jquery.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" alt="jQuery" width="30" height="30" /></a>
+<br>
 
-***
+### DevOps
+<a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /></a> &nbsp; <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" /></a> &nbsp; <a href="https://about.gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab" /></a> &nbsp; <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub" /></a>
 
-**DevOps :** &nbsp; <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="30" height="30" /></a> &nbsp; <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="30" height="30" /></a> &nbsp; <a href="https://about.gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab" width="30" height="30" /></a> &nbsp; <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="30" height="30" /></a>
+<br>
 
-***
+### DATABASES
+<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /></a> &nbsp; <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" /></a>
 
-**DATABASES :** &nbsp; <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30" /></a> &nbsp; <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30" /></a>
+<br>
 
-***
-
-**🌱 STILL LEARNING :** &nbsp; <a href="https://laravel.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="30" height="30" /></a> &nbsp; <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="30" height="30" /></a> &nbsp; <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="30" height="30" /></a> &nbsp; <a href="https://azure.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="30" height="30" /></a>
-
-***
+### 🌱 STILL LEARNING
+<a href="https://laravel.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" /></a> &nbsp; <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a> &nbsp; <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" /></a> &nbsp; <a href="https://azure.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" alt="Azure" /></a>
 
 ---
 
@@ -45,14 +46,4 @@
 
 ### 📱 [SmartSlides](https://smart-slides.vercel.app/) (Co-founder)
 *Status: In Final Stage / Pre-launch*
-- **Description:** *Study smarter. Share faster.* A cross-platform app that gives users instant access to thousands of presentations, PDFs, and slides. Find what you need, download it, and present anywhere.
-- **Stack:** Flutter, Node.js, MongoDB.
-- **Role:** Co-founder, handling architecture, core development, and launch management.
-
----
-
-***
-
-**📫 Let's Connect! :** &nbsp; <a href="mailto:aminehamdoune77@gmail.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" alt="Email" width="30" height="30" /></a> &nbsp; <a href="https://www.linkedin.com/in/amine-hamdoun-baba8425a"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" /></a> &nbsp; <a href="https://gitlab.com/aminehq"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab" width="30" height="30" /></a> &nbsp; <a href="https://aminehq.github.io/my-potfolio/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" alt="Portfolio Website" width="30" height="30" /></a>
-
-***
+- **Description:** *Study smarter. Share faster.* A cross-platform app that gives users instant access to thousands of presentations, PDFs, and slides. Find what you need, download it, and present
