@@ -17,28 +17,29 @@
 
 ## 🛠 Tech Stack
 
-### BACKEND
-<a href="https://www.php.net/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" alt="PHP" /></a> &nbsp; <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS" /></a> &nbsp; <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40" alt="Express" /></a>
+**BACKEND**
 
-<br>
+[![My Skills](https://skillicons.dev/icons?i=php,nodejs,express)](https://skillicons.dev)
 
-### FRONTEND
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /></a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /></a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS" /></a> &nbsp; <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" /></a> &nbsp; <a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" /></a> &nbsp; <a href="https://jquery.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="40" height="40" alt="jQuery" /></a>
+**FRONTEND**
 
-<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,jquery)](https://skillicons.dev)
 
-### DevOps
-<a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /></a> &nbsp; <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" /></a> &nbsp; <a href="https://about.gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab" /></a> &nbsp; <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub" /></a>
+**DevOps**
 
-<br>
+[![My Skills](https://skillicons.dev/icons?i=docker,git,gitlab,github)](https://skillicons.dev)
 
-### DATABASES
-<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /></a> &nbsp; <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" /></a>
+**DATABASES**
 
-<br>
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
-### 🌱 STILL LEARNING
-<a href="https://laravel.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" /></a> &nbsp; <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a> &nbsp; <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" /></a> &nbsp; <a href="https://azure.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" alt="Azure" /></a>
+**CLOUD**
+
+[![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
+
+**🌱 STILL LEARNING**
+
+[![My Skills](https://skillicons.dev/icons?i=laravel,python,tailwind,azure)](https://skillicons.dev)
 
 ---
 
@@ -53,4 +54,9 @@
 ---
 
 ### 📫 Let's Connect!
-<a href="mailto:aminehamdoune77@gmail.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="40" height="40" alt="Email" /></a> &nbsp; <a href="https://www.linkedin.com/in/amine-hamdoun-baba8425a"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" /></a> &nbsp; <a href="https://gitlab.com/aminehq"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab" /></a> &nbsp; <a href="https://aminehq.github.io/my-potfolio/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="40" height="40" alt="Portfolio Website" /></a>
+<p align="left">
+  <a href="mailto:aminehamdoune77@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" alt="email" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/amine-hamdoun-baba8425a" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="40"/></a>
+  <a href="https://gitlab.com/aminehq" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" width="40" height="40"/></a>
+  <a href="https://aminehq.github.io/my-potfolio/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="portfolio" width="40" height="40"/></a>
+</p>
