@@ -18,44 +18,19 @@
 ## 🛠 Tech Stack
 
 ### BACKEND
-<p align="left">
-  <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/></a>
-</p>
+[![Backend](https://skillicons.dev/icons?i=php,nodejs,express)](https://skillicons.dev)
 
 ### FRONTEND
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap"/></a>
-  <a href="https://jquery.com/" target="_blank"><img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery"/></a>
-</p>
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,jquery)](https://skillicons.dev)
 
 ### DevOps
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/></a>
-  <a href="https://about.gitlab.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/></a>
-</p>
+[![DevOps](https://skillicons.dev/icons?i=git,gitlab,github)](https://skillicons.dev)
 
 ### DATABASES
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/></a>
-</p>
+[![Databases](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 ### 🌱 STILL LEARNING
-<p align="left">
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/></a>
-  <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ"/></a>
-  <a href="https://laravel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS"/></a>
-</p>
+[![Learning](https://skillicons.dev/icons?i=azure,docker,rabbitmq,laravel,python,tailwind)](https://skillicons.dev)
 
 ---
 
