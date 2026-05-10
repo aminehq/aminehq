@@ -54,9 +54,8 @@
 ---
 
 ### 📫 Let's Connect!
-<p align="left">
-  <a href="mailto:aminehamdoune77@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" alt="email" width="40" height="40"/></a>
-  <a href="https://www.linkedin.com/in/amine-hamdoun-baba8425a" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="40"/></a>
-  <a href="https://gitlab.com/aminehq" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" width="40" height="40"/></a>
-  <a href="https://aminehq.github.io/my-potfolio/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="portfolio" width="40" height="40"/></a>
-</p>
+
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:aminehamdoune77@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amine-hamdoun-baba8425a)
+[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/aminehq)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://aminehq.github.io/my-potfolio/)
