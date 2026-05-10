@@ -17,29 +17,20 @@
 
 ## 🛠 Tech Stack
 
-**BACKEND**
+### BACKEND
+[![Backend](https://skillicons.dev/icons?i=php,nodejs,express)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=php,nodejs,express)](https://skillicons.dev)
+### FRONTEND
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,jquery)](https://skillicons.dev)
 
-**FRONTEND**
+### DevOps
+[![DevOps](https://skillicons.dev/icons?i=git,gitlab,github)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,jquery)](https://skillicons.dev)
+### DATABASES
+[![Databases](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
-**DevOps**
-
-[![My Skills](https://skillicons.dev/icons?i=docker,git,gitlab,github)](https://skillicons.dev)
-
-**DATABASES**
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
-
-**CLOUD**
-
-[![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
-
-**🌱 STILL LEARNING**
-
-[![My Skills](https://skillicons.dev/icons?i=laravel,python,tailwind,azure)](https://skillicons.dev)
+### 🌱 STILL LEARNING
+[![Learning](https://skillicons.dev/icons?i=azure,docker,rabbitmq,laravel,python,tailwind)](https://skillicons.dev)
 
 ---
 
