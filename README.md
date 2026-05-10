@@ -46,4 +46,11 @@
 
 ### 📱 [SmartSlides](https://smart-slides.vercel.app/) (Co-founder)
 *Status: In Final Stage / Pre-launch*
-- **Description:** *Study smarter. Share faster.* A cross-platform app that gives users instant access to thousands of presentations, PDFs, and slides. Find what you need, download it, and present
+- **Description:** *Study smarter. Share faster.* A cross-platform app that gives users instant access to thousands of presentations, PDFs, and slides. Find what you need, download it, and present anywhere.
+- **Stack:** Flutter, Node.js, MongoDB.
+- **Role:** Co-founder, handling architecture, core development, and launch management.
+
+---
+
+### 📫 Let's Connect!
+<a href="mailto:aminehamdoune77@gmail.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="40" height="40" alt="Email" /></a> &nbsp; <a href="https://www.linkedin.com/in/amine-hamdoun-baba8425a"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" /></a> &nbsp; <a href="https://gitlab.com/aminehq"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab" /></a> &nbsp; <a href="https://aminehq.github.io/my-potfolio/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="40" height="40" alt="Portfolio Website" /></a>
